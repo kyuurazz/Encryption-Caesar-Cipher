@@ -38,6 +38,8 @@ def main():
         if choice == '1':
             text = input("Masukkan teks yang ingin dienkripsi: ")
             shift = int(input("Masukkan jumlah pergeseran: "))
+            # Menghapus spasi sebelum enkripsi
+            text = text.replace(" ", "")
             encrypted_text = encrypt_caesar_cipher(text, shift)
             print(colored(f'Result : {str(encrypted_text)}', 'green'))
             print()
