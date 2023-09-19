@@ -17,7 +17,7 @@
 <p>Program akan memproses kata atau string "Bilal AlHafidz" dengan mengenkripsinya menggunakan metode pergeseran Caesar dengan pergeseran 5 karakter. Hasil enkripsi akan ditampilkan seperti ini:</p>
 
 ```python
-Teks yang dienkripsi: Gnqfq FqMfknie
+Result: GnqfqFqMfknie
 ```
 <p>Proses enkripsi dilakukan dengan mengganti setiap huruf dalam teks awal dengan huruf yang berjarak 5 karakter ke depan dalam alfabet. Huruf kapital tetap huruf kapital, dan huruf kecil tetap huruf kecil.</p>
 
