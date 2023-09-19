@@ -8,11 +8,11 @@
 ### Example
 - Encrypt Data (Enkripsi)
 
-![Screenshot 2023-09-19 082524](https://github.com/kyuurazz/Encryption-Caesar-Cipher/assets/91085882/86b6d215-06a6-4934-b23d-add32daae603)
+![Screenshot 2023-09-19 114901](https://github.com/kyuurazz/Encryption-Caesar-Cipher/assets/91085882/f44f4a45-c1f7-41f0-9403-6ec2bda77998)
 
 - Decrypt Data (Dekripsi)
 
-![Screenshot 2023-09-19 082605](https://github.com/kyuurazz/Encryption-Caesar-Cipher/assets/91085882/798f8a4f-8080-4613-99fd-2f3610d47881)
+![Screenshot 2023-09-19 114933](https://github.com/kyuurazz/Encryption-Caesar-Cipher/assets/91085882/e1ba235b-e84e-40e7-94f0-f91ac68e43a3)
 
 <p>Program akan memproses kata atau string "Bilal AlHafidz" dengan mengenkripsinya menggunakan metode pergeseran Caesar dengan pergeseran 5 karakter. Hasil enkripsi akan ditampilkan seperti ini:</p>
 
